@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your skills and projects with a premium portfolio designed for full stack engineers, impressing top tech recruiters and companies.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
